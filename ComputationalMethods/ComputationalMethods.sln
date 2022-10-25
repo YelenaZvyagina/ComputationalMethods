@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputationalMethodsCommon", "ComputationalMethodsCommon\ComputationalMethodsCommon.csproj", "{4C486B34-7953-4DC2-8200-2BA41FA0286F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonlinearEquations", "..\CM1\NonlinearEquations\NonlinearEquations.csproj", "{1FB922DA-2A01-49B2-804C-1895EB2C498A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgebraicInterpolation", "..\InterpolationLab\AlgebraicInterpolation\AlgebraicInterpolation.csproj", "{BE6125CA-17F9-4EC0-AEFF-E68ABCCB2CD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C486B34-7953-4DC2-8200-2BA41FA0286F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C486B34-7953-4DC2-8200-2BA41FA0286F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C486B34-7953-4DC2-8200-2BA41FA0286F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C486B34-7953-4DC2-8200-2BA41FA0286F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB922DA-2A01-49B2-804C-1895EB2C498A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB922DA-2A01-49B2-804C-1895EB2C498A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB922DA-2A01-49B2-804C-1895EB2C498A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB922DA-2A01-49B2-804C-1895EB2C498A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE6125CA-17F9-4EC0-AEFF-E68ABCCB2CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6125CA-17F9-4EC0-AEFF-E68ABCCB2CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6125CA-17F9-4EC0-AEFF-E68ABCCB2CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6125CA-17F9-4EC0-AEFF-E68ABCCB2CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
